@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f04f6c30-4016-4527-8d27-8eb435f0aec0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amplifyapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/amplifyapp/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649965172000</updated>
       <workItem from="1649965173295" duration="985000" />
-      <workItem from="1649966171622" duration="1964000" />
+      <workItem from="1649966171622" duration="2685000" />
     </task>
     <servers />
   </component>
